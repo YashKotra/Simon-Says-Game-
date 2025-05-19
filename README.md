@@ -32,4 +32,13 @@ The game displays a sequence of colors that the player must repeat in the correc
 
 1. Clone this repository:
    ```bash
-   git clone https://https://github.com/YashKotra/Simon-Says-Game.git
+   git clone https://github.com/YashKotra/Simon-Says-Game.git
+
+2. Navigate to the project directory:
+   cd simon-says-game
+   
+3. Open the index.html file in any modern browser to start the game.
+   simon-says-game/
+   ├── index.html     # Main HTML file
+   ├── style.css      # Styling for the game
+   └── script.js      # Game logic
